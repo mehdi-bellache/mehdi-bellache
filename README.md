@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mehdi-bellache/mehdi-bellache/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mehdi-bellache/mehdi-bellache/output/github-snake.svg">
+  <img alt="github-snake" src="https://raw.githubusercontent.com/mehdi-bellache/mehdi-bellache/output/github-snake.svg">
+</picture>
+
 <!--
 **mehdi-bellache/mehdi-bellache** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,9 +20,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ton-pseudo/ton-pseudo/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ton-pseudo/ton-pseudo/output/github-snake.svg">
-  <img alt="github-snake" src="https://raw.githubusercontent.com/ton-pseudo/ton-pseudo/output/github-snake.svg">
-</picture>
